@@ -1,7 +1,7 @@
 ## BASE - CONFIGURABLE VARS - GLOBAL COMPONENTS
 
 context = "gke_wizzie-230208_europe-west1-b_wizzie-cluster-1"
-namespace = "abaliademo"
+namespace = "default"
 
 # psql_server = ""
 # psql_port = "OPTIONAL"
