@@ -1,9 +1,9 @@
 ## BASE - CONFIGURABLE VARS - GLOBAL COMPONENTS
 
-context = "gke-wizzie-cluster-1-default-pool-c02d9663-grp"
-namespace = "wizziedemo"
+context = "gke_wizzie-230208_europe-west1-b_wizzie-cluster-1"
+namespace = "abaliademo"
 
-psql_server = "35.189.242.21"
+# psql_server = ""
 # psql_port = "OPTIONAL"
 s3_endpoint = "s3.eu-west-1.amazonaws.com"
 
