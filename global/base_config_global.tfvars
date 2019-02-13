@@ -5,7 +5,7 @@ namespace = "default"
 
 # psql_server = ""
 # psql_port = "OPTIONAL"
-s3_endpoint = "s3.eu-west-1.amazonaws.com"
+#s3_endpoint = "s3.eu-west-1.amazonaws.com"
 
 kong_pg_database = "kong"
 kong_pg_user = "kong"
@@ -14,14 +14,14 @@ kong_pg_password = "postgres"
 druid_psql_user = "druid"
 druid_psql_password = "postgres"
 
-druid_bucket = "abaliademo"
-druid_s3_access_key = "AKIAJE2C6YNTMVMLI3MQ"
-druid_s3_secret_key = "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"
+#druid_bucket = "abaliademo"
+#druid_s3_access_key = "AKIAJE2C6YNTMVMLI3MQ"
+#druid_s3_secret_key = "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"
 
 wizz-in_pg_user = "wizzin"
 wizz-in_pg_password = "postgres"
-# wizz-in_admin_email = "OPTIONAL"
-# wizz-in_admin_password = "OPTIONAL"
+wizz-in_admin_email = "jorge.gisbert@abalia.com"
+wizz-in_admin_password = "123456"
 # wizz-in_app_url = "OPTIONAL"
 
 ## wizz-in optional mail settings
