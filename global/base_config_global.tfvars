@@ -15,8 +15,8 @@ druid_psql_user = "druid"
 druid_psql_password = "postgres"
 
 #druid_bucket = "abaliademo"
-#druid_s3_access_key = "AKIAJE2C6YNTMVMLI3MQ"
-#druid_s3_secret_key = "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"
+#druid_s3_access_key = ""
+#druid_s3_secret_key = ""
 
 wizz-in_pg_user = "wizzin"
 wizz-in_pg_password = "postgres"
