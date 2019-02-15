@@ -9,4 +9,5 @@ plugins:
 user_components:
   abaliademo:
     flavour: small
-    plugins: []
+    plugins:
+    - wizz-vis-custom
