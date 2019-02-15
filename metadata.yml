@@ -2,3 +2,11 @@
 wdp_version: 1.0.0
 platform: gcp
 flavour: small
+plugins:
+  wizz-vis-custom:
+    repo: "/root/.kube/wdp-plugin-wizz-vis-custom"
+    version: master
+user_components:
+  abaliademo:
+    flavour: small
+    plugins: []
