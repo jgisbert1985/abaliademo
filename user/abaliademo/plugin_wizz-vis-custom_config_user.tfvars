@@ -1,7 +1,7 @@
 ## WIZZ-VIS CUSTOM PLUGIN - CONFIGURABLE VARS - GLOBAL COMPONENTS
 
 wizz-vis-custom_primary_logo_url = "https://s3.amazonaws.com/demostrador-gcp/logo_dinosol.jpg"
-wizz-vis-custom_secondary_logo_url = "OPTIONAL"
+wizz-vis-custom_secondary_logo_url = ""
 wizz-vis-custom_primary_color = "#077434"
 # wizz-vis-custom_secondary_color = "OPTIONAL"
 
